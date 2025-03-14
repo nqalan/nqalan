@@ -2,8 +2,7 @@
 <img align="left" src="https://i.imgur.com/x7xno54.png)" width="147"/> 
 
 ```csharp
-github.com/zyntrai
-dc   $  @zyntrai
+github.com/uidalan
 g.lol  $  guns.lol/=
 ```
 &zwnj; 
