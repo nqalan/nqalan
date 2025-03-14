@@ -3,7 +3,7 @@
 
 ```csharp
 github.com/uidalan
-g.lol  $  guns.lol/=
+guns.lol/=
 ```
 &zwnj; 
 &zwnj; 
