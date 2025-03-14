@@ -7,4 +7,4 @@ guns.lol/=
 ```
 &zwnj; 
 &zwnj; 
-![]([https://komarev.com/ghpvc/?username=1](https://komarev.com/ghpvc/?username=uidalan&style=for-the-badge))
+![]([https://komarev.com/ghpvc/?username=1](https://komarev.com/ghpvc/?username=1&style=for-the-badge))
