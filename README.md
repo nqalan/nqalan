@@ -2,10 +2,10 @@
 <img align="left" src="https://i.imgur.com/Im1kTL0.png" width="147"/> 
 
 ```csharp
-multifaceted
+psychoanalysis
 dc   $   @uidalan
 ig   $   @uuidalan
-  https://sense.ovh/
+  https://alan.rest/
 ```
 &zwnj; 
 &zwnj; 
