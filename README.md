@@ -2,9 +2,10 @@
 <img align="left" src="https://i.imgur.com/Im1kTL0.png" width="147"/> 
 
 ```csharp
-github.com/uidalan
-guns.lol/=
+multifaceted
+dc   $   @uidalan
+ig   $   @uuidalan
 ```
 &zwnj; 
 &zwnj; 
-![]([https://komarev.com/ghpvc/?username=1](https://komarev.com/ghpvc/?username=1&style=for-the-badge))
+![](https://komarev.com/ghpvc/?username=uidalan)
