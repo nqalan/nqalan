@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&lines=alan.rest)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&lines=alan.rest)]
 <img align="left" src="https://i.imgur.com/Im1kTL0.png" width="147"/> 
 
 ```csharp
