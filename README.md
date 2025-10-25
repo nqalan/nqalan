@@ -4,7 +4,7 @@
 ```python
 antisocial
 dc   $   @uidalan
-ig   $   @uuidalan
+ig   $   @nqalan
 web  $   sense.ovh
 ```
 &zwnj; 
