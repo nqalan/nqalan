@@ -3,7 +3,7 @@
 
 ```python
 antisocial
-dc   $   @uidalan
+tt   $   @uidalan
 ig   $   @nqalan
 web  $   sense.ovh
 ```
