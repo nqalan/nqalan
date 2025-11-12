@@ -2,8 +2,8 @@
 <img align="left" src="https://i.imgur.com/Im1kTL0.png" width="147"/> 
 
 ```python
-antisocial
-tt   $   @uidalan
+antisocial vampire
+tt   $   @nqalan
 ig   $   @nqalan
 web  $   sense.ovh
 ```
